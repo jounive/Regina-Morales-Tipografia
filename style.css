@@ -1,7 +1,7 @@
 body{
     text-align: center;
     background-color: #ffffff;
-    background-image: url("img/kero.png");
+    background-image: url("kero.png");
     background-repeat: repeat;
     margin: 0px;
     /*background-image: url("imagen.jpg");*/
@@ -16,20 +16,22 @@ body{
     background-color: white;
   
     width: 1000px;
-    color:dimgray;
+    color: #72a15f;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
 
 }
 h1 {
-  font-family: 'Open Sans', arial, sans-serif;
-  color:cadetblue;
-  font-size: 40px;
+  font-family: 'Shrikhand', cursive;
+  color: #72a15f;
+  letter-spacing: 4.5px;
+  font-size: 50px;
   margin: 0px;
+
 }
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-  color:dimgray;
+    color: #72a15f;
   font-size: 18px;
   font-weight: 700;
   margin: 0px;
@@ -44,10 +46,11 @@ p {
 }
 .list {
   margin: 0px auto;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 18px;
+  font-family: 'Source Sans', arial, sans-serif;
+  font-size: 25px;
   line-height: 1.6;
   max-width: 33em;
+  font-weight: 800;
   text-align: left;
 
 }
