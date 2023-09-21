@@ -1,6 +1,8 @@
 body{
     text-align: center;
-    background-color: #fcf1e7;
+    background-color: #ffffff;
+    background-image: url("img/kero.png");
+    background-repeat: repeat;
     margin: 0px;
     /*background-image: url("imagen.jpg");*/
 }
@@ -12,6 +14,7 @@ body{
     padding-bottom: 50px;
     text-align: center;
     background-color: white;
+  
     width: 1000px;
     color:dimgray;
     font-family: Georgia, 'Times New Roman', Times, serif;
