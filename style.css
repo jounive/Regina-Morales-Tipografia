@@ -16,29 +16,27 @@ body{
     background-color: white;
   
     width: 1000px;
-    color: #72a15f;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:dimgray;
+    font-family: 'Source Sans', arial, sans-serif;
     font-size: 18px;
 
 }
 h1 {
-  font-family: 'Shrikhand', cursive;
-  color: #72a15f;
-  letter-spacing: 4.5px;
-  font-size: 50px;
+  font-family: 'Source Sans', arial, sans-serif;
+  color: #66A767;
+  font-size: 40px;
   margin: 0px;
-
+  font-weight: 800%;
 }
 h2 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #72a15f;
+  font-family: 'Source Sans', arial, sans-serif;
+  color:dimgray;
   font-size: 18px;
   font-weight: 700;
   margin: 0px;
 }
 p {
   margin: 0px auto;
-  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 18px;
   line-height: 1.6;
   max-width: 33em;
@@ -47,10 +45,10 @@ p {
 .list {
   margin: 0px auto;
   font-family: 'Source Sans', arial, sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   line-height: 1.6;
   max-width: 33em;
-  font-weight: 800;
   text-align: left;
+  font-weight: 800;
 
 }
